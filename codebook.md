@@ -1,4 +1,4 @@
-## Measurments
+## Sensor Measurments
 All these measurments are related to accelerometer and gyroscope sensors, which 
 is extracted from the original dataset then averaged by each subject-action pair.
 Check "features_info" in the origin package for more details.
@@ -37,3 +37,16 @@ Check "features_info" in the origin package for more details.
 "fBodyBodyGyroMag-mean()"     "fBodyBodyGyroMag-std()"     
 "fBodyBodyGyroJerkMag-mean()" "fBodyBodyGyroJerkMag-std()" 
  
+## Experiment Subjects
+Total 30 subjects involved in this experiment, they had been marked from 1 to 30. 
+subject : ID of experiment subject
+
+## Action
+Subject was asked to perform 6 type of action including:
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
