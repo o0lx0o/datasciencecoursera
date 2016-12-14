@@ -37,7 +37,7 @@ Check "features_info" in the origin package for more details.
 "fBodyBodyGyroMag-mean()"     "fBodyBodyGyroMag-std()"     
 "fBodyBodyGyroJerkMag-mean()" "fBodyBodyGyroJerkMag-std()" 
  
-## Experiment Subjects
+## Subjects
 Total 30 subjects involved in this experiment, they had been marked from 1 to 30. 
 subject : ID of experiment subject
 
