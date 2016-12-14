@@ -8,5 +8,5 @@
 6. Use reshape2 to calculate every average variables for each subject-action pair
 7. Output step 6 dataset as txt file
 
-## Detail operation and transformation in "w4as.R" script
+## Detail operation and transformation in "run_analysis.R" script
 ## Codebook specify variables in "dataset.txt"
